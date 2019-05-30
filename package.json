@@ -5,5 +5,9 @@
     "test": "."
   },
   "author": "sifbuilder",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "[object Promise]"
+  }
 }
