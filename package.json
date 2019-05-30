@@ -6,8 +6,5 @@
   },
   "author": "sifbuilder",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "[object Promise]"
-  }
+
 }
