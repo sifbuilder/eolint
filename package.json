@@ -1,0 +1,9 @@
+{
+  "name": "eolint",
+  "version": "0.0.1",
+  "directories": {
+    "test": "."
+  },
+  "author": "sifbuilder",
+  "license": "MIT"
+}
