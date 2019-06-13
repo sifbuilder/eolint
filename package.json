@@ -9,5 +9,31 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:sifbuilder/eolint.git"
-  }
+  },
+  "description": "eslint",
+  "keywords": [
+    "eons",
+    "gatsby",
+    "netlify"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "peerDependencies": {
+    "eslint": "*"
+  },
+  "_files": [
+    {
+      "resolve": "index.js",
+      "properties": {
+        "path": "index.js"
+      }
+    },
+    {
+      "resolve": "eslintrc.json",
+      "properties": {
+        "path": "eslintrc.json"
+      }
+    }
+  ]
 }
